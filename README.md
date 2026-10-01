@@ -23,7 +23,7 @@ A confiabilidade do motor de regras foi garantida através da prática de **Test
 Aplicando os conceitos de análise de valor limite e partição de equivalência — **práticas consolidadas durante a trilha "Processos de testes de Softwares" (Instituto Eldorado)** —, o projeto conta com uma bateria de testes automatizados utilizando **JUnit4**.
 
 **Cobertura de Testes (Caminhos Felizes e Casos Extremos):**
-- [x] Validação de Sucesso Normal, Árduo e Extremo.
+- [x] Validação de Sucesso Normal, Sólido e Extremo.
 - [x] Acerto Crítico Absoluto (Dado = 1).
 - [x] Falha Comum.
 - [x] Desastre Dinâmico (Perícia Alta com Dado = 100).
