@@ -1,4 +1,4 @@
-# 🐙 Cthulhu Tracker - Native Android RPG Companion
+# 🐙 Investigator Traker - Native Android RPG Companion
 
 ![Status](https://img.shields.io/badge/Status-MVP_Concluído-brightgreen)
 ![Linguagem](https://img.shields.io/badge/Kotlin-100%25-blue)
